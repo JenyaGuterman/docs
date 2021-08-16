@@ -10,7 +10,7 @@ order: 3
 
 To create `Breakpoints`, design your website in multiple `Artboards` where all the `Artboard` represent the same webpage but for different screen size.
 
-For example, in the following screenshot you can see the same webpage in 3 different screen sizes.
+For example, in the following screenshot  can see the same webpage in 3 different screen sizes.
 
 ![](/images/launchpad/breakpoints/1.png)
 
